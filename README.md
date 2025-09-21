@@ -38,7 +38,7 @@
 ### 📫 Connect with Me
 - Telegram: [@Abdumomin_dev](https://t.me/Abdumomin_dev)  
 - GitHub: [@abdum0min](https://github.com/abdum0min)  
-- LinkedIn: [Your LinkedIn link here]  
+- LinkedIn: [Abdumo'min Abdurasulov](https://www.linkedin.com/in/abdumo-min-abdurasulov-6a1b8a30a/)
 
 ---
 
