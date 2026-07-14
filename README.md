@@ -1,69 +1,179 @@
-# Hi there, I'm Abdumo'min 👋
+<h1 align="center">Hi, I'm Abdumo'min Abdurasulov 👋</h1>
 
-### 🚀 Frontend & Full-Stack Developer | Building Scalable Web Architectures
+<h3 align="center">
+Software Engineer focused on building scalable web applications, frontend architecture, and high-performance user experiences.
+</h3>
 
-I am a results-driven **Software Engineer** based in Tashkent, Uzbekistan, with 1+ years of professional experience specializing in modern web technologies. I focus on building high-performance systems, complex enterprise CRMs, AI-driven platforms, and SEO-optimized marketplaces. 
+<p align="center">
+  <a href="https://www.abdumomin.uz">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 
-I am deeply passionate about **clean architecture (FSD)**, **micro-frontends**, and delivering seamless user experiences.
+  <a href="https://www.linkedin.com/in/abdumo-min-abdurasulov-6a1b8a30a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-🌍 **Portfolio & Live Projects:** [www.abdumomin.uz](https://www.abdumomin.uz/)  
-📍 **Location:** Tashkent, Uzbekistan  
-📫 **Reach me at:** [@Abdumomin_dev](https://t.me/Abdumomin_dev)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Core:** JavaScript (ES6+), TypeScript, HTML5, SCSS/CSS Modules
-* **Frameworks & Libraries:** React.js, Next.js (12-15), Vue.js, Redux / Redux Toolkit, Vuex, TanStack Query, Vite
-* **UI & Graphics:** Tailwind CSS, Material-UI (MUI), Ant Design, shadcn/ui, React-Konva
-* **Architecture & Concepts:** Feature-Sliced Design (FSD), Micro-frontends, Technical SEO optimization, i18n (Localization), SSR/SSG
-* **Backend & Cloud (Familiarity):** Node.js, Express, RESTful APIs, AWS (Chunked Uploads), MongoDB, MySQL
-* **Tools:** Git, GitHub, Postman, Linux, Figma
+  <a href="https://t.me/Abdumomin_dev">
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💼 Professional Experience & Highlighted Projects
+# 👨‍💻 About Me
 
-* 🧠 **Soffia.uz (AI-Driven Academic Platform)**
-  Spearheaded an AI educational platform supporting 6 languages. Implemented a **micro-frontend architecture** to embed an advanced, Vite-powered `react-konva` presentation editor via iframes. Developed custom DOCX/PDF builders and integrated gamified learning tools.
-* 🛒 **Soff.uz & Seller Ecosystem (Academic Marketplace)**
-  Architected a full-fledged freelance marketplace ecosystem. Led the complete migration to **TypeScript** utilizing **FSD architecture**. Engineered a high-performance video processing pipeline using **AWS chunked uploads** and integrated local payment gateways.
-* 🚛 **Navigo CRM & Xpress Transportation**
-  Developed an end-to-end logistics and auto-transport ecosystem using **Vue.js**. Automated complex workflows, financial tracking, and e-signatures. Boosted technical SEO by implementing automated XML sitemap generation for dynamic routes.
-* 🌐 **Ilmiyish.uz Ecosystem (Multi-Domain Architecture)**
-  Engineered a highly scalable, multi-tenant codebase (Next.js, TanStack Query) serving multiple independent domains (ilmiyish.uz, diplomishlari, soffmarket.uz) while maximizing performance and search engine rankings.
-* 📊 **SoffCRM & HT-Med**
-  Built robust, multi-tenant enterprise CRMs with complex state management (Redux, MUI) and high-converting, heavily optimized medical lead-generation platforms.
+I'm a **Software Engineer** based in **Tashkent, Uzbekistan**, specializing in building scalable frontend systems using **React, Next.js, Vue, and TypeScript**.
+
+Over the past **2+ years**, I've contributed to production-grade products including AI-powered educational platforms, enterprise CRM systems, logistics software, and SEO-optimized marketplaces used by thousands of users.
+
+I enjoy solving complex engineering problems, designing maintainable architectures, improving application performance, and building products that scale.
 
 ---
 
-### 🌱 Continuous Learning
+# 🚀 Current Focus
 
-* Deepening expertise in **Software Architecture**, **Advanced TypeScript**, and **Web Performance Optimization**.
-* Actively exploring new approaches in AI integrations and cloud infrastructure.
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdum0min&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abdumo'min's GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdum0min&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdum0min&query=$.public_repos&label=Repositories&color=blue&style=flat-square" alt="Repos count" />
-</div>
+- ⚡ Building scalable React & Next.js applications
+- 🏗 Designing maintainable frontend architectures
+- 📦 Developing full-stack applications with NestJS
+- 🌍 Creating open-source developer tools
+- 📚 Learning advanced software architecture and distributed systems
 
 ---
 
-### 📫 Let's Connect & Collaborate!
+# 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdumo-min-abdurasulov-6a1b8a30a/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abdumomin_dev)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abdumomin.uz/)
+### Languages
 
-*I’m always open to discussing web architecture, freelance opportunities, or innovative tech projects.*
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-black?style=flat-square)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![Fastify](https://img.shields.io/badge/Fastify-black?style=flat-square&logo=fastify)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+
+### Architecture
+
+- Feature-Sliced Design (FSD)
+- Micro-frontends
+- REST APIs
+- Technical SEO
+- Turborepo
+- SSR / SSG
+- Enterprise CRM
+- Multi-tenant Systems
+
+---
+
+# 🌟 Featured Projects
+
+### 🕌 Taqvo
+
+A full-stack Islamic platform built with **Next.js**, **NestJS**, **Prisma**, **PostgreSQL**, and **Redis** featuring authentication, prayer times, Quran memorization, and scalable backend architecture.
+
+---
+
+### 🤖 Soffia
+
+AI-powered educational platform serving thousands of users with multilingual support, presentation builder, and micro-frontend architecture.
+
+---
+
+### 🚛 Navigo CRM
+
+Enterprise logistics management system developed using Vue.js with automated dispatching, tracking, workflow management, and SEO improvements.
+
+---
+
+### 🛒 Soff Ecosystem
+
+Marketplace ecosystem including Seller, CRM, and educational products featuring TypeScript migration, AWS media uploads, payment integrations, and enterprise frontend architecture.
+
+---
+
+# 💡 What I Enjoy Building
+
+- Enterprise Web Applications
+- AI-powered Platforms
+- SaaS Products
+- Developer Tools
+- Open Source Projects
+- Interactive Canvas Applications
+- High-performance Dashboards
+- Frontend Architecture
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdum0min&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdum0min&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdum0min&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+- Frontend Engineering
+- Software Architecture
+- React & Next.js
+- Enterprise Applications
+- Open Source
+- Freelance Opportunities
+
+<p align="center">
+
+<a href="https://www.abdumomin.uz">
+Portfolio
+</a>
+•
+<a href="https://www.linkedin.com/in/abdumo-min-abdurasulov-6a1b8a30a/">
+LinkedIn
+</a>
+•
+<a href="mailto:aabdugani03@gmail.com">
+Email
+</a>
+•
+<a href="https://t.me/Abdumomin_dev">
+Telegram
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Building software that is scalable, maintainable, and impactful."</i>
+</p>
