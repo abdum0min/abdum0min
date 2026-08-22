@@ -1,4 +1,4 @@
-# Abdumo'min Abdurasulov
+<h1 align="center">Abdumo'min Abdurasulov</h1>
 
 <h3 align="center">Software Engineer | Frontend Specialist with Backend Expertise</h3>
 
@@ -123,7 +123,7 @@ I enjoy solving engineering problems around:
 
 ## SoffHub — Frontend Engineer
 
-**May 2025 – Present · Tashkent, Uzbekistan**
+**May 2025 – Aug 2026 · Tashkent, Uzbekistan**
 
 Worked across multiple production products including marketplace, CRM, and AI-powered educational platforms.
 
